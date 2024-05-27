@@ -14,7 +14,7 @@ namespace TicTacToe.Context
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            optionsBuilder.UseSqlServer("Server = IMEHMETC;Database = TicTacToeDb;User Id = sa;Password = 123;TrustServerCertificate = true");
+            optionsBuilder.UseSqlServer(" ${{ secrets.CONNECTION_STRING }}");
         }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
