@@ -6,7 +6,7 @@ namespace TicTacToe
 {
     public partial class TicTacToe : Form
     {
-        private string _player;
+        private string _player; // USER
         public TicTacToe(string playerName)
         {
             InitializeComponent();
