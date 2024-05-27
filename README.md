@@ -3,16 +3,19 @@ This project is a Tic-Tac-Toe game developed using Windows Forms. Users can log 
 
 Screenshots
 Game Screen
+
 ![game](https://github.com/imehmetc/TicTacToe/assets/75209664/e42fac75-33f8-4598-998f-43dfb31d62cb)
 
 The game screen shows the current player, score status, and leaderboard.
 
 Login Screen
+
 ![login](https://github.com/imehmetc/TicTacToe/assets/75209664/58cb2406-c2d2-4507-952f-81c0c4a5bae2)
 
 Users can log in with their username and password.
 
 Registration Screen
+
 ![register](https://github.com/imehmetc/TicTacToe/assets/75209664/8f09645d-4566-4f31-bfde-49853859605d)
 
 New users can register by entering a username and password.
